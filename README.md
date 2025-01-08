@@ -1,3 +1,5 @@
+[Home](https://github.com/saifullah-s/portfolio/blob/main/README.md) &nbsp;·&nbsp; [Projects](https://github.com/saifullah-s/portfolio/blob/main/projects.md) &nbsp;·&nbsp; [Skills](https://github.com/saifullah-s/portfolio/blob/main/skills.md) &nbsp;·&nbsp; [About Me](https://github.com/saifullah-s/portfolio/blob/main/about-me.md) &nbsp;·&nbsp; [Contact](https://github.com/saifullah-s/portfolio/blob/main/contact.md) &nbsp;·&nbsp; [Resume](https://github.com/saifullah-s/portfolio/blob/main/resume.md)  
+
 # Heart Attack Prediction Using Machine Learning
 
 - [Project Outline](https://drive.google.com/file/d/1Bi-3Ub-Bb_wH2qBtM545WmrPPl1Ur7AB/view?usp=drive_link)
