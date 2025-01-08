@@ -10,6 +10,17 @@
 **Dr. Beibei Cheng**  
 Applied Scientist at Microsoft
 
+## Summary
+-	Developed predictive models to assess heart attack risk with supervised learning techniques on clinical data.
+-	Highlighted the potential of machine learning in healthcare analytics to deliver actionable insights.
+-	Conducted exploratory data analysis (EDA) with advanced visualizations (pair plots, KDE plots, box plots).
+-	Preprocessed and engineered features using techniques like normalization and one-hot encoding.
+-	Built and evaluated a variety of machine learning models, including: Logistic Regression, Random Forest, Gradient Boosting, XGBoost, SVM, Naive Bayes, and K-Nearest Neighbors (KNN).
+-	Achieved robust model performance with Logistic Regression and KNN (89% accuracy and 90% F1-score).
+-	Applied GridSearchCV for hyperparameter tuning, improving model accuracy and fine-tuning parameters.
+-	Enhanced model interpretability with SHAP, creating feature importance plots and providing added insights.
+-	Created interactive visualizations using Plotly, including 3D scatter plots and dynamic correlation heatmaps.
+
 ## Description  
 A machine learning project that dives into data exploration and visualization, feature engineering, data preprocessing, machine learning modeling and evaluation, hyperparameter tuning, and interpretability techniques to build robust predictive models. 
 
